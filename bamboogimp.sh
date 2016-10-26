@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Wacom Bamboo Setup"
+echo "Wacom Bamboo GIMP Setup"
 xsetwacom --list devices
 echo "What is the pad number? "
 read wpad
